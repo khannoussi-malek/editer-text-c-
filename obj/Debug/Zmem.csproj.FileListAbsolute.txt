@@ -1,0 +1,9 @@
+D:\iset\c#\tp4\Zmem\bin\Debug\Zmem.exe.config
+D:\iset\c#\tp4\Zmem\bin\Debug\Zmem.exe
+D:\iset\c#\tp4\Zmem\bin\Debug\Zmem.pdb
+D:\iset\c#\tp4\Zmem\obj\Debug\Zmem.csprojAssemblyReference.cache
+D:\iset\c#\tp4\Zmem\obj\Debug\Zmem.Form1.resources
+D:\iset\c#\tp4\Zmem\obj\Debug\Zmem.Properties.Resources.resources
+D:\iset\c#\tp4\Zmem\obj\Debug\Zmem.csproj.GenerateResource.cache
+D:\iset\c#\tp4\Zmem\obj\Debug\Zmem.exe
+D:\iset\c#\tp4\Zmem\obj\Debug\Zmem.pdb
